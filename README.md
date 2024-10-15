@@ -17,6 +17,8 @@ GoPicasso est un système robotisé conçu pour dessiner de manière autonome de
 - Simplifier les segments consécutifs avec des différences d'angle négligeables.
 - Demander au robot de se déplacer en douceur entre les points sans arrêts inutiles, permettant un mouvement simultané de rotation et d'avance.
 
+![Courbe de Bézier](./images/Courbe%20de%20Bézier.png)
+
 ### 3. Centrage dans l'espace
 - Le programme de centrage permet au robot de s'aligner correctement dans son espace de travail avant de commencer à dessiner.
 - Le robot utilise ses capteurs pour déterminer les dimensions de l'espace de dessin et se place au centre de celui-ci avant de démarrer l'exécution du tracé.
